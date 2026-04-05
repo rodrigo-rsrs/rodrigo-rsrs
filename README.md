@@ -1,46 +1,62 @@
-# 👋 Rodrigo
+<h1 align="center">👋 Olá, eu sou Rodrigo</h1>
+
+<p align="center">
+💻 Desenvolvedor em formação | JavaScript
+</p>
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/564x/ea/3e/fc/ea3efc8e2c0b0c2a68c4a8b0cbb0b7f2.jpg" width="200px"/>
+</div>
+
+---
 
 ## 🧠 Sobre mim
-- 🎂 19 anos  
-- 💻 Desenvolvedor Full Stack em formação  
+
+- 💻 Estudando desenvolvimento Full Stack  
 - 📚 Focado em lógica de programação e JavaScript  
-- 📈 Em evolução constante nos estudos e na prática  
+- 🎯 Em busca da primeira oportunidade como dev  
 
 ---
 
-## 🎯 Objetivo profissional
-🎯 Busco minha primeira oportunidade como desenvolvedor, com foco em desenvolvimento Full Stack, para aplicar meus conhecimentos e evoluir tecnicamente.
+## 📚 Atualmente estudando
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,git" />
+</div>
 
 ---
 
-## 📚 Formação e estudos
-- 📘 Lógica de programação  
-- 🟨 JavaScript  
-- 🌐 HTML e CSS  
-- 🧩 Fundamentos de desenvolvimento  
+## 📊 Stats
 
----
-
-## ⚙️ Tecnologias
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
-
----
-
-## 📊 Estatísticas
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rsrs&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rsrs&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rsrs&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rsrs&layout=compact&theme=radical"/>
+</div>
 
 ---
 
 ## 🚀 Projetos
-🛠️ Atualmente desenvolvendo projetos práticos para fortalecer minhas habilidades em programação.
+
+🚧 Em breve...
+
+---
+
+## 📈 Commits
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigo-rsrs&theme=react-dark"/>
+</div>
 
 ---
 
 ## 📫 Contato
-- 📧 Email: rjssantos.2007@gmail.com  
-- 📱 Telefone: (71) 99673-0418
+
+<div align="center">
+
+📧 rjssantos.2007@gmail.com  
+
+💻 https://github.com/rodrigo-rsrs  
+
+</div>
