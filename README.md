@@ -1,4 +1,4 @@
-<!-- README.md para perfil GitHub --><h1 align="center">👨‍💻 Rodrigo Rodrigues</h1>
+<!-- README.md para perfil GitHub --><h1 align="center">👨‍💻 Rodrigo Jesus Sena dos Santos</h1>
 <h3 align="center">Desenvolvedor em formação | Futuro Dev de Sistemas</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Olá,+seja+bem-vindo+ao+meu+perfil!;Aprendendo+JavaScript,+HTML+e+CSS;Futuro+Desenvolvedor+de+Sistemas;Sempre+evoluindo..."/>
 </p>
@@ -6,15 +6,13 @@
 
 🚀 Sobre mim
 
-🎯 Focado em me tornar um Desenvolvedor de Sistemas
+👨‍💻 Desenvolvedor iniciante focado em evolução rápida
 
-📚 Atualmente estudando JavaScript, HTML e CSS
+📚 Estudando JavaScript, HTML e CSS
 
-💼 Trabalhando como Operador 1
+⚡ Buscando oportunidades para ganhar experiência prática
 
-🧠 Buscando melhorar minha disciplina e produtividade
-
-🌎 Brasil - BA
+🎯 Objetivo: me tornar Desenvolvedor de Sistemas
 
 
 
@@ -44,7 +42,14 @@
 
 🧩 Projetos em destaque
 
-🔹 Em breve adicionarei meus projetos aqui 👀
+Projetos focados em:
+
+Aplicações web (HTML, CSS, JS)
+
+Projetos práticos para portfólio
+
+Resolução de problemas reais
+
 
 
 ---
@@ -52,8 +57,8 @@
 📫 Contato
 
 <p align="center">
-  <a href="https://wa.me/5571996730418">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="mailto:rjssantos.2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 ---
