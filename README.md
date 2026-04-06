@@ -3,56 +3,18 @@
 <h1 align="center">👋 Olá, eu sou Rodrigo</h1>
 
 <p align="center">
-💻 Desenvolvedor em formação | JavaScript
+  💻 Desenvolvedor em formação
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Estudando+JavaScript;Focado+em+programação;Buscando+minha+primeira+oportunidade" />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 💻 Estudando desenvolvimento Full Stack  
-- 📚 Focado em lógica de programação e JavaScript  
-- 🎯 Em busca da primeira oportunidade como dev  
-
----
-
-## 📚 Atualmente estudando
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git" />
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rsrs&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rsrs&layout=compact&theme=radical&count_private=true"/>
-</div>
-
----
-
-## 🚀 Projetos
-
-<!-- Adicione seus projetos aqui quando criar -->
-
----
-
-## 📈 Commits
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigo-rsrs&theme=react-dark"/>
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-📧 rjssantos.2007@gmail.com  
-
-💻 https://github.com/rodrigo-rsrs  
-
-</div>
+```diff
++ Focado em JavaScript e lógica de programação
++ Construindo uma base sólida para desenvolvimento
++ Buscando minha primeira oportunidade como dev
