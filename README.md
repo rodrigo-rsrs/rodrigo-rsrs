@@ -1,30 +1,24 @@
 <h1 align="center">👨‍💻 Rodrigo Jesus Sena dos Santos</h1>
 
 <p align="center">
-  Desenvolvedor em formação • Estudando C e JavaScript
+  Desenvolvedor em formação • Interesse em Full Stack
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Atualmente estudando linguagem C
+Desenvolvedor em formação focado em evolução constante.
 
-🧠 Conhecimento básico em JavaScript
-
-📚 Aprendendo lógica de programação e desenvolvimento
-
-⚡ Interesse em tecnologia, sistemas e IA
-
-🎯 Evoluindo um projeto de cada vez
+Atualmente estudando linguagem C e aprofundando conhecimentos em JavaScript, HTML e CSS, com interesse em desenvolvimento Full Stack e criação de projetos práticos.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,js,html,css"/>
 
 </div>
 
@@ -42,10 +36,15 @@
 
 ---
 
-## 🌌 Atualmente
+## 🎯 Objetivos
 
-```c
-while(alive) {
-    aprender();
-    evoluir();
-}
+- Evoluir na linguagem C
+- Aprender desenvolvimento Full Stack
+- Criar projetos próprios
+- Entrar na área de tecnologia
+
+---
+
+<p align="center">
+  "Construindo meu futuro uma linha de código por vez."
+</p>
