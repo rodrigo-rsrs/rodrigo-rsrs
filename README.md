@@ -1,50 +1,82 @@
-<h1 align="center">👨‍💻 Rodrigo Jesus Sena dos Santos</h1>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=UMBRELLA+CORPORATION+DATABASE;SUBJECT+FOUND;RODRIGO+JESUS+SENA+DOS+SANTOS;DEVELOPER+IN+TRAINING" /><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:8B0000&text=UMBRELLA%20DEVELOPER&fontColor=ffffff&fontSize=50"/></div>☣️ SUBJECT FILE
 
-<p align="center">
-  Desenvolvedor em formação • Interesse em Full Stack
-</p>
+Name: Rodrigo Jesus Sena dos Santos
+Code Name: Umbrella Recruit
+Age: 18
+Status: Active
+Location: Brazil
+Institution: SENAI
+Objective: Become a Software Developer
+Threat Level: Increasing...
+
+🧬 BIOHAZARD REPORT
+
+«Desenvolvedor em formação focado em evolução constante.»
+
+Atualmente estudando:
+
+- Linguagem C
+- Estruturas de Dados
+- Algoritmos
+- JavaScript
+- HTML
+- CSS
+- Git e GitHub
 
 ---
 
-## 🚀 Sobre mim
+⚔️ SKILL TREE
 
-Desenvolvedor em formação focado em evolução constante.
+<div align="center"><img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode"/></div>---
 
-Atualmente estudando linguagem C e aprofundando conhecimentos em JavaScript, HTML e CSS, com interesse em desenvolvimento Full Stack e criação de projetos práticos.
+📊 SYSTEM STATUS
+
+<div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rsrs&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rsrs&layout=compact&theme=tokyonight&hide_border=true"/></div>---
+
+🏆 ACHIEVEMENTS
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=rodrigo-rsrs&theme=tokyonight&no-frame=true"/></div>---
+
+🧪 MISSION LOG
+
++ Learn C
++ Master Data Structures
++ Build Real Projects
++ Become Back-end Developer
++ Get First Tech Opportunity
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+🖥 TERMINAL
 
-<div align="center">
+$ whoami
 
-<img src="https://skillicons.dev/icons?i=c,js,html,css"/>
+Rodrigo
+
+$ current_status
+
+learning...
+coding...
+evolving...
+
+$ future
+
+Software Developer
+
+---
+
+🐍 BIOHAZARD ACTIVITY
+
+"Snake animation" (https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<div align="center">"Profile Views" (https://komarev.com/ghpvc/?username=rodrigo-rsrs&label=DATABASE+ACCESS&color=8B0000)
+
+</div>---
+
+<div align="center">☣️ END OF FILE
+
+"Construindo meu futuro uma linha de código por vez."
 
 </div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rsrs&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rsrs&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🎯 Objetivos
-
-- Evoluir na linguagem C
-- Aprender desenvolvimento Full Stack
-- Criar projetos próprios
-- Entrar na área de tecnologia
-
----
-
-<p align="center">
-  "Construindo meu futuro uma linha de código por vez."
-</p>
