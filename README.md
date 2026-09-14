@@ -1,42 +1,38 @@
-<div align="center">👨‍💻 Rodrigo Jesus Sena dos Santos
+# Rodrigo Jesus Sena dos Santos
 
-Estudante de Análise e Desenvolvimento de Sistemas
+**Estudante de Análise e Desenvolvimento de Sistemas**
 
-</div>---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,git,github,vscode" />
+</p>
 
-🚀 Sobre Mim
+## Sobre
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e atualmente estou focado no aprendizado da linguagem C.
+Estudante de ADS com foco em programação e desenvolvimento de software.
 
-Busco construir uma base sólida em programação, lógica e resolução de problemas, evoluindo constantemente como desenvolvedor.
+## Tecnologias
 
----
+- C
+- Java
+- JavaScript
+- Git
+- GitHub
 
-🛠️ Tecnologias
+## Atualmente
 
-<div align="center"><img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode"/></div>---
+**Java · POO · Lógica · Banco de Dados · SQL**
 
-📚 Atualmente Estudando
+## GitHub
 
-Linguagem C
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rsrs&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=rodrigo-rsrs&theme=tokyonight&hide_border=true"/>
+</p>
 
----
+## Contato
 
-🎯 Objetivos
+📧 **jsantos.2007@gmail.com**
 
-- Evoluir como desenvolvedor
-- Ingressar na área de tecnologia
-
----
-
-📊 Estatísticas
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rsrs&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rsrs&layout=compact&theme=tokyonight&hide_border=true"/></div>---
-
-🔥 Streak
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=rodrigo-rsrs&theme=tokyonight&hide_border=true"/></div>---
-
-<div align="center">"Construindo meu futuro uma linha de código por vez."
-
-</div>
+<p align="center">
+  <code>C</code> · <code>Java</code> · <code>JavaScript</code>
+</p>
